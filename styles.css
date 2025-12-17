@@ -118,3 +118,22 @@ footer {
 .social-media a:hover {
   color: #72c5e9;
 }
+
+
+.btn-gbackup {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 20px;
+
+  background-color: #00a2e8;
+  color: white;
+  text-decoration: none;
+  font-size: 1.1em;
+  border-radius: 6px;
+
+  transition: background-color 0.2s ease;
+}
+
+.btn-gbackup:hover {
+  background-color: #72c5e9;
+}
